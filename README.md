@@ -1,2 +1,4 @@
 # My-personal-profile-website
-All about me and  my projects and skills
+Picture of me 
+list of my skills
+and projects i've worked on 
